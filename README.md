@@ -35,6 +35,6 @@ An application that performs tasks in the background with queues, using Node.js 
 
 Use `npm start` para rodar a aplicação no localhost: `http://localhost:8080/`. 
 
-Run `npm start` for a development server, navigate to http://localhost:8080/. 
+Run `npm start` for a development server, navigate to `http://localhost:8080/`. 
 
 And run `npm run queue` to start the queue service in the background. 
