@@ -18,6 +18,7 @@ An application that performs tasks in the background with queues, using Node.js 
 10. Instale o Redis  `npm install redis`.
 11. Instale o Docker para rodar o Redis, e depois execute o comando `$ docker run --name lab01redis -p 6379:6379 --detach redis`. 
 
+
 1. Use git clone in the repository `git clone git@github.com:dev-mariana/projeto.git`.
 2. Access the directory of project and install the dependencies `npm install`.
 3. This project requires the installation of Express.js `npm install express`.
