@@ -24,9 +24,9 @@
 
    Access the directory of project and install the dependencies `npm install`.
 
-3. Instale o Docker para rodar o Redis, e depois execute o comando `$ docker run --name lab01redis -p 6379:6379 --detach redis`. 
+3. Instale o [Docker](https://www.docker.com/get-started) para rodar o Redis, e depois execute o comando `$ docker run --name lab01redis -p 6379:6379 --detach redis`. 
 
-   Install Docker to run Redis, then run the command `$ docker run --name lab01redis -p 6379:6379 --detach redis`. 
+   Install [Docker](https://www.docker.com/get-started) to run Redis, then run the command `$ docker run --name lab01redis -p 6379:6379 --detach redis`. 
 
 ## Ambiente Local - Development Server
 
@@ -34,6 +34,6 @@
 
   Run `npm start` for a development server, navigate to `http://localhost:8080/`. 
 
-- E `npm run queue` para iniciar o serviço de fila em background.
+- E use `npm run queue` para iniciar o serviço de fila em background.
 
   And run `npm run queue` to start the queue service in the background. 
